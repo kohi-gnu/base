@@ -1,0 +1,10 @@
+NAME="Kōhī GNU/Linux-Libre"
+ID="kohi"
+PRETTY_NAME="Kōhī GNU/Linux-Libre 1.0 (Arusha)"
+VERSION="1.0 (Arusha)"
+VERSION_ID="1.0"
+VERSION_CODENAME="arusha"
+HOME_URL="https://kohi-system.org"
+BUG_REPORT_URL="https://github.com/kohi-gnu/kohi/issues"
+ANSI_COLOR="0;38;2;111;78;55"
+
